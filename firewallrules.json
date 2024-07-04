@@ -1,0 +1,4 @@
+{
+  "ListOfBannedIpAddr": ["192.168.18.1", "192.168.18.2"],
+  "ListOfBannedPorts": [8080, 8181]
+}
